@@ -14,7 +14,7 @@
 - ✍️ &nbsp; Love  to Automate All my manual tasks 
 - 👯 &nbsp; We can connect on [Chess.com](https://www.chess.com/member/sweetxcyanide)♟ to play some games Or Counter strike if you want
 - 😄 &nbsp;  Pronouns: He/Him
-- 💬 &nbsp; Talk to me about cricket, socceer(Yes as Iam a proud Madridista)
+- 💬 &nbsp; Talk to me about cricket, soccer (Yes as Iam a proud Madridista <img src="https://images-na.ssl-images-amazon.com/images/I/41CpXSBDH5L._AC_.jpg" width="30px">)
 - 💍 &nbsp; Newly Enagaged
 
 <br />
