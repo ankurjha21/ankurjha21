@@ -15,7 +15,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Confident Devops Engineer ,having passion to learn new technology.
-- 💼 &nbsp; Working as a Devops Engineer at Linkfire <img src="https://emoji.slack-edge.com/T02990GNF/likefire/d913f00e8c44d208.gif">
+- 💼 &nbsp; Working as a Devops Engineer at Linkfire <img src="https://emoji.slack-edge.com/T02990GNF/likefire/d913f00e8c44d208.gif"width="30px">
 - 🌱 &nbsp; Learning more about Cloud Services by writing it as a Infrastructure as a code.
 - ✍️ &nbsp; Love  to Automate All my manual tasks 
 
