@@ -9,7 +9,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Confident Open Source Contributor, DevOps enthusiast having passion to learn new technology.
-- 💼 &nbsp; Working as a Devops Engineer at Linkfire <img src="https://emoji.slack-edge.com/T02990GNF/likefire/d913f00e8c44d208.gif" width="30px">
+- 💼 &nbsp; Working as a Devops Engineer at Linkfire <img src="https://emoji.slack-edge.com/T02990GNF/likefire/d913f00e8c44d208.gif" width="50px">
 - 🌱 &nbsp; Learning more about Cloud Services by writing it as a Infrastructure as a code.
 - ✍️ &nbsp; Love  to Automate All my manual tasks 
 - 👯 &nbsp; We can connect on [Chess.com](https://www.chess.com/member/sweetxcyanide)♟ to play some games Or Counter strike if you want
