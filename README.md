@@ -8,13 +8,14 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Confident Devops Engineer ,having passion to learn new technology.
+- 🎓 &nbsp; Confident Open Source Contributor, DevOps enthusiast having passion to learn new technology.
 - 💼 &nbsp; Working as a Devops Engineer at Linkfire <img src="https://emoji.slack-edge.com/T02990GNF/likefire/d913f00e8c44d208.gif" width="30px">
 - 🌱 &nbsp; Learning more about Cloud Services by writing it as a Infrastructure as a code.
 - ✍️ &nbsp; Love  to Automate All my manual tasks 
 - 👯 &nbsp; We can connect on [Chess.com](https://www.chess.com/member/sweetxcyanide)♟ to play some games Or Counter strike if you want
 - 😄 &nbsp;  Pronouns: He/Him
 - 💬 &nbsp; Talk to me about cricket, socceer(Yes as Iam a proud Madridista)
+- 💍 &nbsp; Newly Enagaged
 
 <br />
 <img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
@@ -93,6 +94,13 @@ Sunday       91 commits     ███████░░░░░░░░░░�
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 
 
+<hr>
+
+## Thank you for visiting my profile. You're a gem. :gem:
+
+![Visitor Count](https://profile-counter.glitch.me/EmmadiDivyaSrujana/count.svg)
+
+<hr>
 
 
 
