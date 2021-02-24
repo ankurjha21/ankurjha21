@@ -1,12 +1,21 @@
-<img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.png">
 <a href="https://www.overleaf.com/read/cjnxndmzzmxq"><img src="https://raw.githubusercontent.com/Parply/Parply/master/.github/banner.png" alt="Welcome to Ankur Jha's Github" width="100%"/></a>
-<h2> Hey there! I'm Ankur.</h2>
+
+<p align="center">
+<a href="https://github.com/Parply/profile-wordcloud">
+<!--START_SECTION:wordcloud-->
+ <p align='center'><img src='https://raw.githubusercontent.com/Parply/Parply/master/wordcloud/wordcloud.png' alt='Word cloud generated from my GitHub repositories' width='100%'/></p> 
+ <!--END_SECTION:wordcloud-->
+</a>
+</p>
+
+<h3> <img src="https://github.com/Parply/Parply/blob/master/.github/Hi.gif?raw=true" width="30px"> Hey there! I'm Ankur </h3> 
+
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Confident Devops Engineer ,having passion to learn new technology.
-- 💼 &nbsp; Working as a Devops Engineer at Linkfire https://emoji.slack-edge.com/T02990GNF/likefire/d913f00e8c44d208.gif
+- 💼 &nbsp; Working as a Devops Engineer at Linkfire <img src="https://emoji.slack-edge.com/T02990GNF/likefire/d913f00e8c44d208.gif">
 - 🌱 &nbsp; Learning more about Cloud Services by writing it as a Infrastructure as a code.
 - ✍️ &nbsp; Love  to Automate All my manual tasks 
 
