@@ -2,7 +2,7 @@
   <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
 </p>
 
-<h3> <img src="https://github.com/Parply/Parply/blob/master/.github/Hi.gif?raw=true" width="30px"> Hey there! I'm Ankur </h3> 
+<h3> <img src="https://github.com/Parply/Parply/blob/master/.github/Hi.gif?raw=true" width="30px"> Hey there! I'm Ankur from India 🇮🇳 </h3> 
 
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
