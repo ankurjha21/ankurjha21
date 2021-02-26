@@ -43,15 +43,11 @@
 
 <br/>
 
-<a href="https://github.com/ankurjha21">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ankurjha21&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankurjha21&theme=buefy&layout=compact" />
-</a>
 
 <br/>
 
 ### 🐱My Github stats:
-![Apoorv's github stats](https://github-readme-stats.vercel.app/api?username=ankurjha21&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=["stars"])
+![Ankur's github stats](https://github-readme-stats.vercel.app/api?username=ankurjha21&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=["stars"])
 
 
 
