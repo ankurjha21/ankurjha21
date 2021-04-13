@@ -9,7 +9,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Confident Open Source Contributor, DevOps enthusiast having passion to learn new technology.
-- 🎓 &nbsp; Active Open Source Contributor on Hactoberfest from past 3 session 
+- 🎓 &nbsp; Active Open Source Contributor on Hactoberfest from past 3 Year 
 - 💼 &nbsp; Working as a Devops Engineer at Linkfire <img src="https://emoji.slack-edge.com/T02990GNF/lovefire/168dfccce912afaa.png" width="30px">
 - 🌱 &nbsp; Learning more about Cloud Services by writing it as a Infrastructure as a code.
 - ✍️ &nbsp; Love  to Automate All my manual tasks 
@@ -60,18 +60,6 @@
 🌆 Daytime    83 commits     ██████░░░░░░░░░░░░░░░░░░░   25.62% 
 🌃 Evening    172 commits    █████████████░░░░░░░░░░░░   53.09% 
 🌙 Night      28 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.64%
-
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday       55 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.71% 
-Tuesday      23 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.82% 
-Wednesday    25 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.5% 
-Thursday     14 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.76% 
-Friday       16 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.44% 
-Saturday     70 commits     ██████░░░░░░░░░░░░░░░░░░░   23.81% 
-Sunday       91 commits     ███████░░░░░░░░░░░░░░░░░░   30.95%
 
 ```
 
