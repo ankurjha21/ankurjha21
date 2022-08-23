@@ -10,13 +10,12 @@
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Confident Open Source Contributor, DevOps enthusiast having passion to learn new technology.
 - 🎓 &nbsp; Active Open Source Contributor on Hactoberfest from past 3 Year 
-- 💼 &nbsp; Working as a Devops Engineer at IBM Denmark
+- 💼 &nbsp; Working as a Devops Architect at IBM Denmark
 - 🌱 &nbsp; Learning more about Cloud Services by writing it as a Infrastructure as a code.
 - ✍️ &nbsp; Love  to Automate All my manual tasks 
 - 👯 &nbsp; We can connect on [Chess.com](https://www.chess.com/member/sweetxcyanide)♟ to play some games Or Counter strike if you want
 - 😄 &nbsp;  Pronouns: He/Him
 - 💬 &nbsp; Talk to me about cricket, soccer (Yes as Iam a proud Madridista)
-- 💍 &nbsp; Newly Enagaged
 
 <br />
 <img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
