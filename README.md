@@ -65,7 +65,7 @@
 
 ## Thank you for visiting my profile. You're a gem. :gem:
 
-![Visitor Count](https://profile-counter.glitch.me/ankurjha21/count.svg)
+![Visitor Count](https://komarev.com/ghpvc/?username=ankurjha21&style=flat-square&color=blue)
 
 <hr>
 
